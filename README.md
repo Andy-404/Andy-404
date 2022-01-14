@@ -17,7 +17,7 @@
 - :books: My major is **Computer Science**
 - :earth_asia: I'm living now in **Chennai, India**
 - :sweat_smile: I know C and C++. Now I'm focussing Web Development.
-- :monocle_face: I'm interested in coding and reading fictions.
+- :monocle_face: I love in coding and reading fictions.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
