@@ -65,5 +65,5 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Adriraj Sachan Andy-404
+  &copy; 2022 Adriraj Sachan Andy-404
 </div>
