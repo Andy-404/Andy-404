@@ -10,7 +10,8 @@
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+<!-- ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me -->
+## About Me
 
 - :credit_card: My full name is **Adriraj Sachan** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently 2nd year student at **SRM University - KTR Campus**
@@ -19,7 +20,8 @@
 - :sweat_smile: I know C and C++. Now I'm focussing Web Development.
 - :monocle_face: I love in coding and reading fictions.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
+<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">  -->
+## Some Languages and Tools
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -33,7 +35,8 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+<!-- ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">  -->
+## About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-404&layout=compact&show_icon=true&theme=algolia" alt="Andy-404-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Andy-404&count_private=true" alt="Andy-404-stats"/>
@@ -44,7 +47,8 @@
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=Andy-404&theme=react-dark"/> --> 
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+<!-- ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">  -->
+## For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:adrirajsachan108@gmail.com" >
     <img align="center" alt="Adriraj Sachan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
