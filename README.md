@@ -14,7 +14,7 @@
 ## About Me
 
 - :credit_card: My full name is **Adriraj Sachan** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently 2nd year student at **SRM University - KTR Campus**
+- :school: I'm currently 3rd year student at **SRM University - KTR Campus**
 - :books: My major is **Computer Science**
 - :earth_asia: I'm living now in **Chennai, India**
 - :sweat_smile: I know C and C++. Now I'm focussing Web Development.
